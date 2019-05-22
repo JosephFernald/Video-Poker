@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 [RequireComponent(typeof(AudioSource))]
-public class AudioListener : MonoBehaviour
+public class PokerGameAudioListener : MonoBehaviour
 {
     #region Inspector Variables
 

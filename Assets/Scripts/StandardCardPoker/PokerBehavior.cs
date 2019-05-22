@@ -99,6 +99,24 @@ public class PokerBehavior : MonoBehaviour
     #region Class Functions
 
     /// <summary>
+    /// Utility function used to determine if all cards are on hold.
+    /// </summary>
+    /// <returns></returns>
+    public bool AreAllCardsBeingHeld()
+    {
+        bool areAllCardsBeingHeld = true;
+        for(int i=0;i<cardsToHold.Count && areAllCardsBeingHeld == true;++i)
+        {
+            if(cardsToHold[i] == false)
+            {
+                areAllCardsBeingHeld = false;
+            }
+        }
+
+        return areAllCardsBeingHeld;
+    }
+
+    /// <summary>
     /// The function external classes call when they want to begin playing a game.
     /// </summary>
     /// <returns></returns>

@@ -107,7 +107,11 @@ public class GameController : MonoBehaviour
     {
         if (PlaceBet(currentPaytableList.BetAmounts[currentBetIndex], currentDenom))
         {
-            Messenger.Broadcast(GameEvents.Sounds.PlayCardDealSound);
+            if (pokerGameBehavior.AreAllCardsBeingHeld() == false)
+            {
+                Messenger.Broadcast(GameEvents.Sounds.PlayCardDealSound);
+            }
+            
             Messenger.Broadcast(GameEvents.Award.ResetHighlightAwardedValue);
             pokerGameBehavior.PlayPoker();
         }
