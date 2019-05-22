@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ebc49b5fbe1f294cb45eef69c653193, type: 3}
+  m_Name: JacksOrBetterStrategy_9_6
+  m_EditorClassIdentifier: 
+  pokerHandTypeToArrayIndexMap: 0c0000000a00000009000000080000000700000006000000050000000400000003000000

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d13867e4d973ab4996f9540b05ecc67, type: 3}
+  m_Name: CardMaterialContainer_Spade
+  m_EditorClassIdentifier: 
+  suit: 3
+  cardMaterialList:
+  - {fileID: 2100000, guid: d19ffd5b983b94e0780e59ebcdfaf53c, type: 2}
+  - {fileID: 2100000, guid: 06d5ea810a6b7432d936dd35534f569e, type: 2}
+  - {fileID: 2100000, guid: 8385f52ec5f85458889d416acac03e71, type: 2}
+  - {fileID: 2100000, guid: 7365372006f644068bc2159901827ae1, type: 2}
+  - {fileID: 2100000, guid: 47d6e802d5d4542be95cf5ba943114cf, type: 2}
+  - {fileID: 2100000, guid: 35687e0951b7c4db792ebeaff11fc9f1, type: 2}
+  - {fileID: 2100000, guid: 3e8f1fc108d544cbb9f3baaa25b518bb, type: 2}
+  - {fileID: 2100000, guid: dd5102f9357904dc7a68d9dd9341262b, type: 2}
+  - {fileID: 2100000, guid: 83c1f04b3d5a2497ab21ccf01cfc0f2b, type: 2}
+  - {fileID: 2100000, guid: 4a6cc9c66319745b9a46948d892ee13f, type: 2}
+  - {fileID: 2100000, guid: 4f69b35a52fbe4d5b9ae767ea96e3aa1, type: 2}
+  - {fileID: 2100000, guid: 3910cd10756064fcbbee24eae35c945d, type: 2}
+  - {fileID: 2100000, guid: a19b3c814b0df4e4891dfb647bcc7682, type: 2}

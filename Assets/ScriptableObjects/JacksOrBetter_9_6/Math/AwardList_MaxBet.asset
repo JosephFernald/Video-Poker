@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3002175eb73384e49b13ef8415e55eec, type: 3}
+  m_Name: AwardList_MaxBet
+  m_EditorClassIdentifier: 
+  paytableAwards:
+  - payType: 12
+    baseValue: 800
+  - payType: 10
+    baseValue: 50
+  - payType: 9
+    baseValue: 25
+  - payType: 8
+    baseValue: 9
+  - payType: 7
+    baseValue: 6
+  - payType: 6
+    baseValue: 4
+  - payType: 5
+    baseValue: 3
+  - payType: 4
+    baseValue: 2
+  - payType: 3
+    baseValue: 1

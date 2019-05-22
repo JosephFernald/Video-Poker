@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6c4ef75820e5eb40aa72afc4ca72199, type: 3}
+  m_Name: PaytableConfig_JacksOrBetter_9_6
+  m_EditorClassIdentifier: 
+  availableDenoms:
+  - 0.05
+  - 0.1
+  - 0.25
+  - 0.5
+  betMultipliers: 0100000002000000030000000400000005000000
+  betAmounts: 0100000002000000030000000400000005000000
+  paytables:
+  - {fileID: 11400000, guid: d68bdd78fee85d3489aa4ca17b1e7a52, type: 2}
+  - {fileID: 11400000, guid: d68bdd78fee85d3489aa4ca17b1e7a52, type: 2}
+  - {fileID: 11400000, guid: d68bdd78fee85d3489aa4ca17b1e7a52, type: 2}
+  - {fileID: 11400000, guid: d68bdd78fee85d3489aa4ca17b1e7a52, type: 2}
+  - {fileID: 11400000, guid: e77a41fb0e3bca246b2b35d598e50c3f, type: 2}

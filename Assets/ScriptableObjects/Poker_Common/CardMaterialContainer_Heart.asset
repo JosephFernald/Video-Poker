@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d13867e4d973ab4996f9540b05ecc67, type: 3}
+  m_Name: CardMaterialContainer_Heart
+  m_EditorClassIdentifier: 
+  suit: 0
+  cardMaterialList:
+  - {fileID: 2100000, guid: 9bf40b20400dc423182fbabeb1fadcda, type: 2}
+  - {fileID: 2100000, guid: a311b18256a0a4f1c917e8e169bb4c1e, type: 2}
+  - {fileID: 2100000, guid: 877fa5675665b44ff81050dccef829cd, type: 2}
+  - {fileID: 2100000, guid: 1ed319b78737e4d8c8407899e443e97b, type: 2}
+  - {fileID: 2100000, guid: 9c300e06b43094d8db5fe4e51bbb45a1, type: 2}
+  - {fileID: 2100000, guid: fc2df52b4895f4c2380aca6519fd84c9, type: 2}
+  - {fileID: 2100000, guid: a9316b8d3122c4bb59d0643a7a1c7866, type: 2}
+  - {fileID: 2100000, guid: decc3e3558f674a909ac9e2d49cadff4, type: 2}
+  - {fileID: 2100000, guid: bed4aec27939541a8a39ec546fec313e, type: 2}
+  - {fileID: 2100000, guid: 3af644ed02f9f4b8481b616faa8ebf62, type: 2}
+  - {fileID: 2100000, guid: fa617abdf351e4846b16b9a0effb9202, type: 2}
+  - {fileID: 2100000, guid: 9135507c9d3d74f21933ec8775f2054e, type: 2}
+  - {fileID: 2100000, guid: f2854439fc6a64780a38ceb3e668164a, type: 2}

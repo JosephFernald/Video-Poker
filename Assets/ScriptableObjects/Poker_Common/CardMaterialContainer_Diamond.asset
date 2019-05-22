@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d13867e4d973ab4996f9540b05ecc67, type: 3}
+  m_Name: CardMaterialContainer_Diamond
+  m_EditorClassIdentifier: 
+  suit: 2
+  cardMaterialList:
+  - {fileID: 2100000, guid: 0429c41a83e4f484a9521c818dce1482, type: 2}
+  - {fileID: 2100000, guid: e5dc8e7057d354ca783c9e1e0c85c584, type: 2}
+  - {fileID: 2100000, guid: 94d0de25cd53d4aa798a993dabf00089, type: 2}
+  - {fileID: 2100000, guid: 7aebd68803c5d4abab7de1f4a4115c91, type: 2}
+  - {fileID: 2100000, guid: b772342598992437eaaad37fe9b4f6c7, type: 2}
+  - {fileID: 2100000, guid: 4a0f18604f8e54a3cbf72cb77b6dc70a, type: 2}
+  - {fileID: 2100000, guid: dbf74c9c77df644c1acfcfcb1beeed94, type: 2}
+  - {fileID: 2100000, guid: 5e7451fa8240f466d9f6e536b34c2f8b, type: 2}
+  - {fileID: 2100000, guid: ee37f58c6f86e482d936b3a066027435, type: 2}
+  - {fileID: 2100000, guid: 357263aca30d640fba98d9dfe30c9e0a, type: 2}
+  - {fileID: 2100000, guid: 9f51e94d867b64a11b99037afb3d6a7f, type: 2}
+  - {fileID: 2100000, guid: 1a12e59cfeabc455081b643d51bd7392, type: 2}
+  - {fileID: 2100000, guid: f8ff19cd6af614c3ba6635c4efb33e33, type: 2}
